@@ -1,0 +1,11 @@
+
+.btn:focus{
+    background-color: lightgrey !important;
+    color:black !important;
+}
+
+.btn:hover{
+    background-color:#9B9B9B !important;
+    color:black !important;
+}
+
