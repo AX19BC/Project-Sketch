@@ -1,11 +1,13 @@
-
 .btn:focus{
-    background-color: lightgrey !important;
+    background-color: white !important;
     color:black !important;
+    box-shadow: 3px 4px 15px !important;
 }
 
+
 .btn:hover{
-    background-color:#9B9B9B !important;
+    background-color:white !important;
     color:black !important;
+    box-shadow: 3px 4px 15px !important;
 }
 
